@@ -47,11 +47,11 @@ Your work should be clear and comprehensible for an audience with a sound founda
 
 **Objectives**:
 
-1.  To assess whether PrEP use and need is different across urban and rural areas.
+1.  To assess whether PrEP use and need differs across urban and rural areas. *Chi-squared/T-test*
 
-2.  To identify the demographic characteristics across urban and rural regions which best explain the distribution of unmet PrEP need.
+2.  To identify the characteristics across urban and rural regions which best explain the distribution of unmet PrEP need. *Regression analysis*
 
-3.  To assess whether areas with more established communities of sexual minorities have lower rates of PrEP unmet need, across the total resident population.
+3.  To assess whether areas with more established communities of sexual minorities have lower rates of PrEP unmet need, across the total resident population. *How to test this?*
 
     i.  *Hypothesis:* Areas with higher proportion of LGB+ population will have greater sexual health literacy, and healthcare workers will have greater expertise in HIV and sexual health care, which will improve PrEP uptake across the community *as a whole*.
     ii. *Hypothesis:* xxx
