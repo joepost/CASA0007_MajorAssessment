@@ -39,15 +39,34 @@ Your work should be clear and comprehensible for an audience with a sound founda
 
 \
 
-## Research Question
+
+## Introduction and Background (400 words)
+
+*Description*: This should be a brief discussion of sources relevant to your work. Be sure to consider sources relating to both the context of the research question you have chosen and the methods that other authors have used to address similar questions. Ensure that you take a critical perspective on the sources you reference and end by summarising the relevance of what you have learnt for your own investigation.  
+
+Proposed Structure:  
+
+-   Introduce; overview of HIV rates in the UK, at-risk populations, trends in diagnosis. Describe PrEP as a medication and how it is used. Describe PrEP funding and provision in the UK (NHS via SHSs). 
+
+-   Discuss the research in PrEP access, and spatial disparities. Introduce and report the findings of key studies (mostly from US and Australia). Refer to PHE statistics on disparities in HIV care between metropolitan and regional SHSs. 
+
+-   Discuss gaps in the research; lots of work on qualitative understanding of differences between urban-rural accessibility, however lack of broader quantitative studies. Therefore this project will provide a quantitative basis across the whole UK to support or contrast with qualitative research.
+
+*From research proposal* PrEP was made available as a publicly subsidised medication in England through the NHS in 2020. Given that regional variation in access was identified as an independent factor in PrEP uptake in Australia, and both countries have only recently made the subsidised medication available nationwide, there is reason to believe that a similar pattern may be evident in the UK. This has implications for health equity and identifying areas of greatest need for PrEP access and education.
+
+HIV Pre-Exposure Prophylaxis (PrEP) ...  
+
+
+## Research Question (100 words)
 
 **Research Question**: How are levels of unmet HIV pre-exposure prophylaxis (PrEP) need associated with urban-rural divides in England?
-
-**Background**: *From research proposal* PrEP was made available as a publicly subsidised medication in England through the NHS in 2020. Given that regional variation in access was identified as an independent factor in PrEP uptake in Australia, and both countries have only recently made the subsidised medication available nationwide, there is reason to believe that a similar pattern may be evident in the UK. This has implications for health equity and identifying areas of greatest need for PrEP access and education.
 
 **Objectives**:
 
 1.  To assess whether PrEP use and need differs across urban and rural areas. *Chi-squared/T-test*
+
+    i.  *Hypothesis:* PrEP use in urban areas is higher than regional/rural
+
 
 2.  To identify the characteristics across urban and rural regions which best explain the distribution of unmet PrEP need. *Regression analysis*
 
@@ -70,39 +89,31 @@ Your work should be clear and comprehensible for an audience with a sound founda
 5.    State hypothesis conclusion (evidence for null or alternative?)
 
 
-## Literature Review
-
-*Description*: This should be a brief discussion of sources relevant to your work. Be sure to consider sources relating to both the context of the research question you have chosen and the methods that other authors have used to address similar questions. Ensure that you take a critical perspective on the sources you reference and end by summarising the relevance of what you have learnt for your own investigation.
-
-Text
-
--   Discuss gaps in the research; lots of work on qualitative understanding of differences between urban-rural accessibility, however lack of broader quantitative studies. Therefore this project will provide a quantitative basis across the whole UK to support or contrast with qualitative research.
-
-## Data Sources
+## Data Sources (150 words)
 
 *Description*: Communicate the key features of your data to the reader through summary statistics and appropriate figures and tables.
 
 Text
 
-## Methodology
+## Methodology (150 words)
 
 *Description*: Your methodology must demonstrate an understanding of quantitative techniques and their value. Consider which of the methods from the course would be most appropriate to deploy in the investigation of your particular question.
 
 Text
 
-## Results
+## Results (300 words)
 
 *Description*: Consider the way in which you present your results carefully. The goal should be clarity of communication. In some circumstances, a table of values may be perfectly adequate. In other circumstances, a graph or diagram may be more appropriate.
 
 Text
 
-## Discussion
+## Discussion (500 words)
 
 *Description*: When discussing your results, you should demonstrate your understanding of the quantitative methods that you have employed and your ability to clearly interpret any output that you have observed. Avoid summarising information that has already been clearly presented by means of a table or graph and concentrate on highlighting key facts and interpreting outcomes in terms of your research objectives.
 
 Text
 
-## Conclusion
+## Conclusion (150 words)
 
 *Description*: Your conclusion must relate back to your research question (even if your results are inconclusive) and must be based on all of the information that you have gained and the interpretations that you have outlined in the previous sections.
 
