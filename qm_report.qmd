@@ -31,9 +31,7 @@ Define a research question of your choice in a topic that is related to cities r
 
 ### Audience
 
-Your work should be clear and comprehensible for an audience with a sound foundation of quantitative understanding. You should assume a detailed knowledge of the methods covered in the course. Briefly explain the purpose of each method that you employ.
-
-\
+Your work should be clear and comprehensible for an audience with a sound foundation of quantitative understanding. You should assume a detailed knowledge of the methods covered in the course. Briefly explain the purpose of each method that you employ.  
 
 **Length**: The maximum length of the text is 1750 words, excluding graphs, tables, other figures and code extracts. Footnotes are included in the word limit. In addition, the work as a whole must not exceed 7 pages, with a minimum font size of 12. The word count must be stated at the end of the text. The only exception to the above is the bibliography, which should appear on its own page at the end of the document, and which is not counted in the word limit.
 
@@ -54,7 +52,7 @@ Proposed Structure:
 
 *From research proposal* PrEP was made available as a publicly subsidised medication in England through the NHS in 2020. Given that regional variation in access was identified as an independent factor in PrEP uptake in Australia, and both countries have only recently made the subsidised medication available nationwide, there is reason to believe that a similar pattern may be evident in the UK. This has implications for health equity and identifying areas of greatest need for PrEP access and education.
 
-HIV Pre-Exposure Prophylaxis (PrEP) ...  
+In 2019, Public Health England (PHE), an executive agency of the United Kingdom Department of Health and Social Care, released a framework for zero HIV transmission in the UK by 2030. A key part of this strategy is the implementation of HIV Pre-Exposure Prophylaxis (PrEP) among communities at high-risk of HIV infection. HIV PrEP is a combination medication that [stats on effectiveness of prevention]. The medication was made available nationwide as a publicly-funded pharmaceutical through the NHS on October 1st 2020 (UKHealth statement ref). [Mention available in Scotland Wales earlier]. 
 
 
 ## Research Question (100 words)
